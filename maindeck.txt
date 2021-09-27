@@ -1,0 +1,15 @@
+4; Brainstorm;
+4; Ponder;
+3; Expressive Iteration;
+4; Force of Will;
+2; Force of Negation;
+1; Jace, the Mind Sculptor;
+1; Kaldra Compleat;
+2; Murktide Regent;
+4; Prismatic Ending;
+4; Stoneforge Mystic;
+4; Swords to Plowshares;
+2; Teferi, Time Raveler;
+2; True-Name Nemesis;
+1; Umezawa's Jitte;
+2; Dress Down;
